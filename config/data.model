@@ -1,0 +1,15 @@
+{
+
+"w2v_model_file": "../../models/GoogleNews-vectors-negative300.bin",
+"out_data_file": "./src/output/music_instruments_data_file.txt",
+"data_dir": "../../datasets/recommender/Amazon/reviews_Musical_Instruments_5.json.gz",
+"pkl_data_file": "./src/resources/music_instruments_data.pkl",
+"encoded_data_dir": "./data/amazon/music_instruments",
+"checkpoints_dir": "./checkpoints/music_instruments",
+"data_general_processed_dir": "/media/hdd/parisa/dcnn/DeepCoNN/data/m_insts/general_data",
+"data_name": "music",
+"embedding_dim": 300,
+"fig_dir": "./checkpoints/music_instruments/figs",
+"preprocessed_sub_dir": "prepro/train.lists"
+}
+
